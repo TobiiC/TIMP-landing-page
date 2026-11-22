@@ -43,6 +43,7 @@ Para verlo local: abrir `index.html` o `npx serve .`
 ## Decisiones tomadas
 - Contacto: **solo mail (timptecnologias@gmail.com) e Instagram (@timp.tecnologias)**. Sin WhatsApp ni LinkedIn por ahora.
 - **Sin sección de proyectos/portfolio** por ahora (no hay capturas). Proyectos que podrían sumarse después: notificador de transferencias, e-commerce de un entrenador personal.
+- Público ampliado: pymes, emprendedores y empresas. Los dolores se cuentan como procesos (no escenas de mostrador) y el asistente de cobros se presenta como un ejemplo, no como el producto principal.
 - Repo público.
 - Vercel plan Hobby por ahora. Ojo: el Hobby es para uso no comercial; si facturan o Vercel lo pide, pasar a Pro o mover a otro hosting (Cloudflare Pages / Netlify).
 
